@@ -23,7 +23,7 @@
         "Grupo B": {
             "teams": ["México", "Jamaica", "Ecuador", "Venezuela"],
             "matches": [
-                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SFCDLMJ42RFABJ4PR5ZHPS2QTQ.jpeg","location": "Levi’s Stadium, Santa Clara, California","score1": null,
+                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://media.primicias.ec/2020/11/12122705/Enner-Valencia-Ecuador-vs.-Venezuela.jpg","location": "Levi’s Stadium, Santa Clara, California","score1": null,
                 "score2": null},
                 {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "22:00", "team1": "México", "team2": "Jamaica","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS61nYXirUvO0b8WGFbIIiTW4TEPWF5Bk4pw&s","location":"NRG Stadium, Houston, Texas","score1": null,
                 "score2": null},
