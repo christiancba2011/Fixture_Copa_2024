@@ -123,6 +123,24 @@ document.addEventListener('DOMContentLoaded', function() {
         nextBtn.disabled = currentIndex >= numCards - numVisibleCards;
     }
 
+    // Event listener for touch events for sliding
+    carouselTrack.addEventListener('touchstart', function (event) {
+        startX = event.touches[0].clientX;
+        isDragging = true;
+    });
+
+    carouselTrack.addEventListener('touchmove', function (event) {
+        if (isDragging) {
+            const moveX = event.touches[0].clientX - startX;
+            carouselTrack.style.transform = `translateX(${moveX}px)`;
+        }
+    });
+
+    carouselTrack.addEventListener('touchend', function (event) {
+        isDragging = false;
+        updateCarousel();
+    });
+
       // Event listener for clicks outside the carousel
       document.addEventListener('click', function(event) {
         const isClickInsideCarousel = carouselTrack.contains(event.target) || prevBtn.contains(event.target) || nextBtn.contains(event.target);
