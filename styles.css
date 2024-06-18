@@ -216,7 +216,7 @@ footer {
     background: #021e3a;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
     position: fixed;
     width: 100%;
     bottom: 0;
@@ -396,6 +396,10 @@ footer {
     .social-icons a {
         font-size: 20px;
         margin: 0 8px;
+    }
+
+    footer{
+        padding: 0.5px;
     }
 }
 }
