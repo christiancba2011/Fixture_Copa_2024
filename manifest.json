@@ -1,0 +1,16 @@
+{
+    "name": "Fixture Copa América 2024",
+    "short_name": "MiApp",
+    "description": "Descripción de mi aplicación web.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "assets/icons/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
