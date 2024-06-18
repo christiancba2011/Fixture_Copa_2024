@@ -1,0 +1,104 @@
+{
+    "groups": {
+        "Grupo A": {
+            "teams": ["Argentina", "Canadá", "Perú", "Chile"],
+            "matches": [
+                {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": null,
+      "score2": null},
+                {"date": "2024-06-21", "dayOfWeek": "Viernes", "time": "21:00", "team1": "Perú", "team2": "Chile","imageUrl": "https://media.tycsports.com/files/2024/05/16/717894/chile-vs-peru_1440x810_wmk.webp?v=1","location": "AT&T Stadium de Arlington, Texas","score1": null,
+      "score2": null},
+                {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "19:00", "team1": "Perú", "team2": "Canadá","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VDSnnPg92tOSjy-7AOTEnJ0gU17zS96xtw&s","location": "Childrens Mercy Park, Kansas City, Kansas","score1": null,
+                "score2": null},
+                {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "22:00", "team1": "Chile", "team2": "Argentina","imageUrl": "https://a.espncdn.com/combiner/i?img=/photo/2022/0128/r966742_1296x729_16-9.jpg&cquality=80&h=370&w=655","location": "MetLife Stadium, East Rutherford, New Jersey","score1": null,
+                "score2": null},
+                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Argentina", "team2": "Perú","imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UC3GTDUT7BH7RPNEDXHFJCYZFU.jpeg","location": "Hard Rock Stadium, Miami Gardens, Florida","score1": null,
+                "score2": null},
+                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Canadá", "team2": "Chile","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTictwdZZ4yyWO2mDfayrZUBVeNK9t-0_9WzQ&s","location": "Exploria Stadium, Orlando, Florida","score1": null,
+                "score2": null}
+                
+                
+            ]
+        
+        },
+        "Grupo B": {
+            "teams": ["México", "Jamaica", "Ecuador", "Venezuela"],
+            "matches": [
+                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SFCDLMJ42RFABJ4PR5ZHPS2QTQ.jpeg","location": "Levi’s Stadium, Santa Clara, California","score1": null,
+                "score2": null},
+                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "22:00", "team1": "México", "team2": "Jamaica","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS61nYXirUvO0b8WGFbIIiTW4TEPWF5Bk4pw&s","location":"NRG Stadium, Houston, Texas","score1": null,
+                "score2": null},
+                {"date": "2024-06-26", "dayOfWeek": "Miércoles", "time": "19:00", "team1": "Ecuador", "team2": "Jamaica","imageUrl":"https://www.eluniverso.com/resizer/QZkr25fzHFLw_5XWGWn-q-NkqMY=/456x336/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/CO7OZ7MBRJFBHEM6ZAQYVBTXB4.jpg","location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
+                "score2": null},
+                {"date": "2024-06-26", "dayOfWeek": "Miércoles", "time": "22:00", "team1": "Venezuela", "team2": "México","imageUrl":"https://e.rpp-noticias.io/large/2019/06/05/152115_797997.jpg","location":"SoFi Stadium, Inglewood, California","score1": null,
+                "score2": null},
+                {"date": "2024-06-30", "dayOfWeek": "Domingo", "time": "21:00", "team1": "México", "team2": "Ecuador","imageUrl":"https://img.asmedia.epimg.net/resizer/v2/APZRX3UAUBCF5MUWEFROPT5ZYE.jpg?auth=4e509496f266f8e0668e50e497bc95d50b9ac11100c15f5f8392da362c8338ef&width=1472&height=828&focal=488%2C114","location": "State Farm Stadium, Glendale, Arizona","score1": null,
+                "score2": null},
+                {"date": "2024-06-30", "dayOfWeek": "Domingo", "time": "21:00", "team1": "Jamaica", "team2": "Venezuela","imageUrl":"https://cde.laprensa.e3.pe/ima/0/0/1/3/6/136473.jpg","location":"Q2 Stadium, Austin, Texas","score1": null,
+                "score2": null}
+               
+               
+            ]
+        },
+        "Grupo C": {
+            "teams": ["Estados Unidos", "Bolivia", "Uruguay", "Panamá"],
+            "matches": [
+                {"date": "2024-06-23", "dayOfWeek": "Domingo", "time": "19:00", "team1": "Estados Unidos", "team2": "Bolivia","imageUrl":"https://depor.com/resizer/9k5nNWsQ9zFmPTkkD0p7P7YRPk8=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DHF2EX3S3NEEROMOI7AN5L7GLY.jpg","location":"AT&T Stadium, Arlington, Texas","score1": null,
+                "score2": null},
+                {"date": "2024-06-23", "dayOfWeek": "Domingo", "time": "22:00", "team1": "Uruguay", "team2": "Panamá","imageUrl":"https://auf.org.uy/imagenes/img_contenido/seleccion_partido/a/_z4a1905.jpg","location":"Hard Rock Stadium, Miami Gardens, Florida","score1": null,
+                "score2": null},
+                {"date": "2024-06-27", "dayOfWeek": "Jueves", "time": "19:00", "team1": "Panamá", "team2": "Estados Unidos","imageUrl":"https://media.rpctv.com/p/463b6310047224d053b7df172e5cd9f4/adjuntos/314/imagenes/018/651/0018651508/855x0/smart/000_33nv3r9jpg.jpg","location":"Mercedes-Benz Stadium, Atlanta, Georgia","score1": null,
+                "score2": null},
+                {"date": "2024-06-27", "dayOfWeek": "Jueves", "time": "22:00", "team1": "Uruguay", "team2": "Bolivia","imageUrl":"https://auf.org.uy/imagenes/img_contenido/seleccion_partido/a/_z4a1905.jpg","location":"MetLife Stadium, New Jersey","score1": null,
+                "score2": null},
+                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Bolivia", "team2": "Panamá","imageUrl":"https://depor.com/resizer/9k5nNWsQ9zFmPTkkD0p7P7YRPk8=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DHF2EX3S3NEEROMOI7AN5L7GLY.jpg","location":"Exploria Stadium, Orlando, Florida","score1": null,
+                "score2": null},
+                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Estados Unidos", "team2": "Uruguay","imageUrl":"https://media.tycsports.com/files/2024/05/20/720055/estados-unidos-vs-uruguay_1440x810_wmk.webp","location":"GEHA Field at Arrowhead Stadium, Kansas City, Missouri","score1": null,
+                "score2": null}
+            ]
+        },
+        "Grupo D": {
+            "teams": ["Colombia", "Paraguay", "Brasil", "Costa Rica"],
+            "matches": [
+                {"date": "2024-06-24", "dayOfWeek": "Lunes", "time": "19:00", "team1": "Colombia", "team2": "Paraguay","imageUrl":"https://media.tycsports.com/files/2021/11/16/359905/colombia-paraguay_1440x810_wmk.jpg?v=1","location":"NRG Stadium, Houston, Texas","score1": null,
+                "score2": null},
+                {"date": "2024-06-24", "dayOfWeek": "Lunes", "time": "20:00", "team1": "Brasil", "team2": "Costa Rica","imageUrl":"https://depor.com/resizer/2XnDKsDuOaN-RFpHpWTY6AaBvQo=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2RCWK4FY3JDYBOV36SM5DJ2ZDY.jpg","location":"SoFi Stadium, Inglewood, California","score1": null,
+                "score2": null},
+                {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "19:00", "team1": "Colombia", "team2": "Costa Rica","imageUrl":"https://media.tycsports.com/files/2021/07/03/302679/uruguay-2-0-0-4-colombia-copa-america-2022_862x485.jpg?v=1","location":"State Farm Stadium, Glendale, Arizona","score1": null,
+                "score2": null},
+                {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Paraguay", "team2": "Brasil","imageUrl":"https://i.ytimg.com/vi/ehiFQEXl4nc/maxresdefault.jpg","location":"Allegiant Stadium, Las Vegas, Nevada","score1": null,
+                "score2": null},
+                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Brasil", "team2": "Colombia","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3gZ8mv3jDNfZXU1WgUIwwglnLvXt2dt26Q&s","location":"Levi’s Stadium, Santa Clara, California","score1": null,
+                "score2": null},
+                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Costa Rica", "team2": "Paraguay","imageUrl":"https://cdn.colombia.com/sdi/2016/06/04/copa-america-centenario-paraguay-y-costa-rica-dividen-puntos-500080.jpg","location":"Q2 Stadium, Austin, Texas","score1": null,
+                "score2": null}
+               
+            ]
+        },
+        "quarterfinals": [
+            {"date": "2024-07-04", "dayOfWeek": "Jueves", "time": "22:00", "team1": "Ganador Grupo A", "team2": "Segundo Grupo B","location": "NRG Stadium, Houston","score1": null,
+            "score2": null},
+            {"date": "2024-07-05", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Ganador Grupo B", "team2": "Segundo Grupo A", "imageUrl": "https://example.com/quarter2.jpg", "location": "AT&T Stadium de Arlington, Texas","score1": null,
+            "score2": null},
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ganador Grupo C", "team2": "Segundo Grupo D", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
+            "score2": null},
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Ganador Grupo D", "team2": "Segundo Grupo C", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
+            "score2": null}
+        ],
+        "semifinals": [
+            {"date": "2024-07-09", "dayOfWeek": "Martes", "time": "20:00", "team1": "Ganador Cuarto 1", "team2": "Ganador Cuarto 2","location": "MetLife Stadium, New Jersey","score1": null,
+            "score2": null},
+            {"date": "2024-07-10", "dayOfWeek": "Miércoles", "time": "20:00", "team1": "Ganador Cuarto 3", "team2": "Ganador Cuarto 4", "imageUrl": "https://example.com/semi2.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
+            "score2": null}
+        ],
+        "thirdPlace": [
+            {"date": "2024-07-13", "dayOfWeek": "Sábado", "time": "20:00", "team1": "Perdedor Semi 1", "team2": "Perdedor Semi 2", "imageUrl": "https://example.com/third.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
+            "score2": null}
+        ],
+        "final": [
+            {"date": "2024-07-14", "dayOfWeek": "Domingo", "time": "20:00", "team1": "Ganador Semi 1", "team2": "Ganador Semi 2", "imageUrl": "https://example.com/final.jpg", "location": "Hard Rock Stadium, Miami Gardens","score1": null,
+            "score2": null}
+        ]
+    }
+
+}
+

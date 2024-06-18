@@ -1,0 +1,74 @@
+{
+    "estadios": [
+        {
+            "name": "Mercedes-Benz Stadium",
+            "location": "Atlanta",
+            "imageUrl": "https://www.ole.com.ar/images/2023/11/20/CZEOQtXW2_720x0__1.jpg"
+        },
+        {
+            "name": "AT&T Stadium",
+            "location": "Arlington, Texas",
+            "imageUrl": "https://www.dallasnews.com/resizer/Lxw0lSNSGxNEg866nc1stbPQ6UQ=/arc-anglerfish-arc2-prod-dmn/public/WM4GC4VEO5EVTFJIWK35I5OWRQ.jpg"
+        },
+        {
+            "name": "Levi’s Stadium",
+            "location": "Santa Clara, California",
+            "imageUrl": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F39553049%3Fdate=2024-06-06"
+        },
+        {
+            "name": "Hard Rock Stadium",
+            "location": "Miami Gardens, Florida",
+            "imageUrl": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-06/Hard%20Rock%20Stadium%20Miami%20Florida%20061622.jpeg?itok=u_xdLaE-"
+        },
+        {
+            "name": "NRG Stadium",
+            "location": "Houston, Texas",
+            "imageUrl": "https://resizer.glanacion.com/resizer/v2/el-nrg-sera-uno-de-los-tres-estadios-de-texas-que-4PNJJGI6ARAAJJZW24ZGY7WWUA.JPG?auth=c0651756812598e6a92bcec36fffc2974a6361f4fb6af37cd3bd9723fb9a222f&width=420&height=279&quality=70&smart=true"
+        },
+        {
+            "name": "SoFi Stadium",
+            "location": "Inglewood, California",
+            "imageUrl": "https://static.tvn-2.com/clip/35dd5676-a2a6-4a4f-9d1b-679a8df6aa48_16-9-aspect-ratio_default_0.webp"
+        },
+        {
+            "name": "Childrens Mercy Park",
+            "location": "Kansas City, Kansas",
+            "imageUrl": "https://media.tycsports.com/files/2024/04/16/704621/childrens-mercy-park_1440x810_wmk.webp"
+        },
+        {
+            "name": "MetLife Stadium",
+            "location": "East Rutherford, New Jersey",
+            "imageUrl": "https://resizer.glanacion.com/resizer/v2/el-metlife-stadium-se-encuentra-en-east-66HIPAK56NCQ7LDLTE3Y7H4ELE.jpg?auth=5e5723a3c18c469ff52a40043ed93d67e88c229f831f0e57dde9eebb6e67dfcc&width=420&height=280&quality=70&smart=true"
+        },
+        {
+            "name": "Exploria Stadium ",
+            "location": "Orlando, Florida",
+            "imageUrl": "https://copaamerica.com/_next/image?url=%2Fstadiums%2Finterco-stadium.jpg&w=3840&q=75"
+        },
+        {
+            "name": "Allegiant Stadium",
+            "location": "Las Vegas, Nevada",
+            "imageUrl": "https://copaamerica.com/_next/image?url=%2Fstadiums%2Fallegiant-stadium.jpg&w=3840&q=75"
+        },
+        {
+            "name": "State Farm Stadium",
+            "location": "Glendale, Arizona",
+            "imageUrl": "https://copaamerica.com/_next/image?url=%2Fstadiums%2Fstatefarm-stadium.jpg&w=3840&q=75"
+        },
+        {
+            "name": "GEHA Field at Arrowhead Stadium",
+            "location": "Kansas City, Missouri",
+            "imageUrl": "https://copaamerica.com/_next/image?url=%2Fstadiums%2Fgeha-stadium.jpg&w=3840&q=75"
+        },
+        {
+            "name": "Q2 Stadium",
+            "location": "Austin, Texas",
+            "imageUrl": "https://cdn.theathletic.com/app/uploads/2024/05/24131517/GettyImages-2153157195-scaled.jpg"
+        },
+        {
+            "name": "Bank of America Stadium",
+            "location": "Charlotte, North Carolina",
+            "imageUrl": "https://copaamerica.com/_next/image?url=%2Fstadiums%2Fbankofamerica-stadium.jpg&w=3840&q=75"
+        }
+    ]
+}
