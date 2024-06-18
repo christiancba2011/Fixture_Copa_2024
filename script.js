@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ${!isKnockoutStage ? `<img src="${match.imageUrl}" alt="Partido ${match.team1} vs ${match.team2}">` : ''}
             <div class="card-content">
                 <p>${match.dayOfWeek}, ${match.date} - ${match.time}</p>
-                <p>Ubicación: ${match.location}</p>
+                <p>${match.location}</p>
                 <p><strong>Resultado:</strong> ${match.score1 !== null ? match.score1 : '-'} - ${match.score2 !== null ? match.score2 : '-'}</p>
             </div>
         `;
