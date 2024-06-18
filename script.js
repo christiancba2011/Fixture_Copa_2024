@@ -123,6 +123,14 @@ document.addEventListener('DOMContentLoaded', function() {
         nextBtn.disabled = currentIndex >= numCards - numVisibleCards;
     }
 
+      // Event listener for clicks outside the carousel
+      document.addEventListener('click', function(event) {
+        const isClickInsideCarousel = carouselTrack.contains(event.target) || prevBtn.contains(event.target) || nextBtn.contains(event.target);
+        if (!isClickInsideCarousel) {
+            carouselTrack.innerHTML = ''; // Clear carousel content
+        }
+    });
+
     window.addEventListener('resize', updateCarousel);
 });
 

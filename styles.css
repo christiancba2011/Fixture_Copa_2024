@@ -28,7 +28,7 @@ body {
 header {
     background-color: #021e3a;
     color: white;
-    padding: 5px 10px; /* Ajustar padding para hacerlo más pequeño */
+    padding: 5px 2px; /* Ajustar padding para hacerlo más pequeño */
     /*display: flex;*/
     justify-content: flex-start ;
     align-items: center;
@@ -40,14 +40,14 @@ header {
 }
 /* Imagen Logo */
 .header-image {
-    max-height: 70px;
-    max-width: 70px;
+    max-height: 50px;
+    max-width: 50px;
     width: auto;
     object-fit: contain;
 }
 
 header h1 {
-    font-size: 1.5rem; /* Smaller font size for mobile */
+    font-size: 0.7rem; /* Smaller font size for mobile */
 }
 
 .group-btn,
@@ -216,10 +216,11 @@ footer {
     background: #021e3a;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding: 0.2px;
     position: fixed;
     width: 100%;
     bottom: 0;
+    margin-bottom: 0px;
 }
 
 .footer-content {
@@ -279,6 +280,9 @@ footer {
 }
 
 .hamburger-menu {
+    top: 10px;
+    right: 10px;
+    padding: 10px;
     display: none;
     flex-direction: column;
     cursor: pointer;
