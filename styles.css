@@ -216,7 +216,8 @@ footer {
     background: #021e3a;
     color: white;
     text-align: center;
-    padding: 0.2px;
+    
+    /*padding: 0.2px;*/
     position: fixed;
     width: 100%;
     bottom: 0;
@@ -401,13 +402,22 @@ footer {
     }
     /* Iconos más pequeños en dispositivos móviles */
 @media (max-width: 768px) {
-    .social-icons a {
+    /* .social-icons a {
         font-size: 20px;
         margin: 0 8px;
+    } */
+    .social-icon a {
+        width: 32px; /* Ajusta el tamaño del icono */
+        height: 32px;
+        transition: transform 0.2s;
+    }
+    .footer-title {
+        font-size: 1.2em;
+        margin-bottom: 10px; /* Reduce el espacio inferior */
+        color: #333;
     }
 
-    footer{
-        padding: 0.5px;
-    }
+    
 }
+
 }
