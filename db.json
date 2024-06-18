@@ -23,8 +23,8 @@
         "Grupo B": {
             "teams": ["México", "Jamaica", "Ecuador", "Venezuela"],
             "matches": [
-                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SFCDLMJ42RFABJ4PR5ZHPS2QTQ.jpeg","location": "Levi’s Stadium, Santa Clara, California","score1": null,
-                "score2": null},
+                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SFCDLMJ42RFABJ4PR5ZHPS2QTQ.jpeg","location": "Levi’s Stadium, Santa Clara, California","score1": 2,
+                "score2": 1},
                 {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "22:00", "team1": "México", "team2": "Jamaica","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS61nYXirUvO0b8WGFbIIiTW4TEPWF5Bk4pw&s","location":"NRG Stadium, Houston, Texas","score1": null,
                 "score2": null},
                 {"date": "2024-06-26", "dayOfWeek": "Miércoles", "time": "19:00", "team1": "Ecuador", "team2": "Jamaica","imageUrl":"https://www.eluniverso.com/resizer/QZkr25fzHFLw_5XWGWn-q-NkqMY=/456x336/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/CO7OZ7MBRJFBHEM6ZAQYVBTXB4.jpg","location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
