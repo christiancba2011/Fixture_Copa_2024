@@ -199,7 +199,7 @@ header h1 {
     border: none;
     padding: 10px;
     cursor: pointer;
-    border-radius: 50%;
+    border-radius: 20%;
     z-index: 10;
 }
 

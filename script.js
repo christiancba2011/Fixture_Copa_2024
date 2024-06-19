@@ -123,23 +123,35 @@ document.addEventListener('DOMContentLoaded', function() {
         nextBtn.disabled = currentIndex >= numCards - numVisibleCards;
     }
 
-    // Event listener for touch events for sliding
-    carouselTrack.addEventListener('touchstart', function (event) {
-        startX = event.touches[0].clientX;
-        isDragging = true;
-    });
-
-    carouselTrack.addEventListener('touchmove', function (event) {
-        if (isDragging) {
-            const moveX = event.touches[0].clientX - startX;
-            carouselTrack.style.transform = `translateX(${moveX}px)`;
-        }
-    });
-
-    carouselTrack.addEventListener('touchend', function (event) {
-        isDragging = false;
-        updateCarousel();
-    });
+     // Handle touch events for swiping
+     carouselTrack.addEventListener('touchstart', handleTouchStart);
+     carouselTrack.addEventListener('touchmove', handleTouchMove);
+     carouselTrack.addEventListener('touchend', handleTouchEnd);
+ 
+     function handleTouchStart(event) {
+         startX = event.touches[0].pageX;
+         isDragging = true;
+     }
+ 
+     function handleTouchMove(event) {
+         if (!isDragging) return;
+         currentX = event.touches[0].pageX;
+     }
+ 
+     function handleTouchEnd() {
+         if (!isDragging) return;
+         isDragging = false;
+         const diffX = startX - currentX;
+         if (Math.abs(diffX) > 50) {
+             if (diffX > 0) {
+                 // Swipe left, move to next card
+                 nextBtn.click();
+             } else {
+                 // Swipe right, move to previous card
+                 prevBtn.click();
+             }
+         }
+     }
 
       // Event listener for clicks outside the carousel
       document.addEventListener('click', function(event) {
