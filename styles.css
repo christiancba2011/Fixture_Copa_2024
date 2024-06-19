@@ -27,8 +27,10 @@ body {
 }*/
 header {
     background-color: #021e3a;
+    /*max-width: 360px;*/
+    
     color: white;
-    padding: 5px 2px; /* Ajustar padding para hacerlo más pequeño */
+    padding: 3px 1px; /* Ajustar padding para hacerlo más pequeño */
     /*display: flex;*/
     justify-content: flex-start ;
     align-items: center;
@@ -36,7 +38,7 @@ header {
     text-align: center;
     position: sticky;
     top: 0;
-    z-index: 10; /* Asegurar que el header esté por encima de otros contenidos */
+    z-index: 2; /* Asegurar que el header esté por encima de otros contenidos */
 }
 /* Imagen Logo */
 .header-image {
@@ -410,13 +412,14 @@ footer {
         width: 32px; /* Ajusta el tamaño del icono */
         height: 32px;
         transition: transform 0.2s;
-    }
-    .footer-title {
-        font-size: 1.2em;
-        margin-bottom: 10px; /* Reduce el espacio inferior */
-        color: #333;
+        /* gap: 10;
+        margin: 0; */
     }
 
+    .footer-titulo{
+        margin: 0 0 10px; /* Remove top margin, set bottom margin to 10px */
+        font-size: 1rem;
+    }   
     
 }
 

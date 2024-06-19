@@ -17,6 +17,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const nextBtn = document.querySelector('.next');
     let currentIndex = 0;
     let numVisibleCards = 1; // Default number of visible cards
+    let startX = 0;
+    let currentX = 0;
+    let isDragging = false;
 
     // Fetch JSON data
     fetch('https://project-data-games.onrender.com/groups')
@@ -129,13 +132,15 @@ document.addEventListener('DOMContentLoaded', function() {
      carouselTrack.addEventListener('touchend', handleTouchEnd);
  
      function handleTouchStart(event) {
-         startX = event.touches[0].pageX;
+         startX = event.touches[0].clientX;
          isDragging = true;
+         currentX = startX; // Set currentX to startX initially
      }
  
      function handleTouchMove(event) {
          if (!isDragging) return;
-         currentX = event.touches[0].pageX;
+         currentX = event.touches[0].clientX;
+         event.preventDefault(); // Prevent default behavior (e.g., scrolling)
      }
  
      function handleTouchEnd() {
