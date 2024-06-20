@@ -139,7 +139,7 @@ header h1 {
 .carousel-container {
     max-width: 100%; /* Permite que el contenedor se ajuste al tamaño de la pantalla */
     position: relative;
-    /*max-width: 800px;*/
+    max-width: 800px;
     /* margin: 0 auto; */
     overflow: hidden;
     background: rgb(10, 54, 135);
@@ -357,8 +357,8 @@ footer {
     }
 
     .card {
-        /*min-width: 380px;*/
-        /*margin: 5px;*/
+        min-width: 380px;
+        margin: 5px;
     }
 
     /* Paragraphs in Card Content */
