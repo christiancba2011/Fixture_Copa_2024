@@ -137,6 +137,7 @@ header h1 {
 
 /* Contenedor del carrusel */
 .carousel-container {
+    max-width: 100%; /* Permite que el contenedor se ajuste al tamaño de la pantalla */
     position: relative;
     max-width: 800px;
     margin: 0 auto;
