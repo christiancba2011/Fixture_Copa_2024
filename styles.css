@@ -171,7 +171,7 @@ header h1 {
     transform-style: preserve-3d;
     transform: rotateY(0deg);
     transition: transform 0.5s ease; /* Transición suave */
-    margin-bottom: 260px; /* Asegurar espacio inferior */
+    margin-bottom: 20px; /* Asegurar espacio inferior */
 }
 
 .card:hover {
