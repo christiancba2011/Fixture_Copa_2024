@@ -361,11 +361,11 @@ footer {
     }
 
     /* Paragraphs in Card Content */
-    .card .card-content p {
+    /* .card .card-content p {
     margin: 10px 5px;
     font-size: 0.9em;
     color: #666;
-    }
+    } */
 
     .prev, .next {
         padding: 8px;
