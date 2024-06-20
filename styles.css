@@ -182,7 +182,7 @@ header h1 {
     height: auto;
 }
 
-.card-content {
+/* .card-content {
     padding: 0;
     margin: 0;
 }
@@ -191,7 +191,7 @@ header h1 {
     margin: 0;
     padding: 0;
 }
-
+ */
 .card-content h3 {
     margin: 0;
     font-size: 15px;
@@ -362,7 +362,7 @@ footer {
 
     /* Paragraphs in Card Content */
     .card .card-content p {
-    margin: 0px 0;
+    margin: 10px 0;
     font-size: 0.9em;
     color: #666;
     }
