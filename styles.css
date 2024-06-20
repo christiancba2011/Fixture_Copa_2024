@@ -193,7 +193,7 @@ header h1 {
 }
  */
 .card-content h3 {
-    margin: 0;
+    margin: 10px;
     font-size: 15px;
 }
 
@@ -362,7 +362,7 @@ footer {
 
     /* Paragraphs in Card Content */
     .card .card-content p {
-    margin: 10px 0;
+    margin: 10px 5px;
     font-size: 0.9em;
     color: #666;
     }
