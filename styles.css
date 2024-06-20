@@ -323,7 +323,7 @@ footer {
 
     .header-image {
         max-height: auto;
-        max-width: 50px;
+        /*max-width: 50px;*/
         width: auto;
         object-fit: contain;
     }
@@ -357,7 +357,7 @@ footer {
     }
 
     .card {
-        min-width: 380px;
+        /*min-width: 380px;*/
         margin: 5px;
     }
 
