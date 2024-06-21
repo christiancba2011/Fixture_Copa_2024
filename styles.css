@@ -361,7 +361,7 @@ footer {
     .card img {
         width: 50%;
         height: 50%;
-        margin-bottom: 5px; /* Menos espacio en móviles */
+       /* margin-bottom: 5px; /* Menos espacio en móviles */
     }
 
     .card {
