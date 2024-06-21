@@ -14,8 +14,8 @@ body {
 #page-container {
     display: flex;
     flex-direction: column;
-    /* min-height: 0vh;
-    margin-bottom: 0px; */
+    min-height: 0vh;
+    margin-bottom: 0px;
 }
 
 /* Encabezado */
@@ -138,6 +138,7 @@ header h1 {
 /* Contenedor del carrusel */
 .carousel-container {
     max-width: 100%; /* Permite que el contenedor se ajuste al tamaño de la pantalla */
+    max-height: auto;
     position: relative;
     /*max-width: auto;*/
     margin: 0 auto; 
@@ -145,7 +146,7 @@ header h1 {
     background: rgb(117,170,219);
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    border-color: rgb(117,170,219)
+    border-color: rgb(9, 27, 44)
 }
 
 /* Carrusel */
@@ -360,18 +361,20 @@ footer {
     .card img {
         width: 50%;
         height: 50%;
+        margin-bottom: 10px; /* Menos espacio en móviles */
     }
 
     .card {
-        min-width: 380px;
-        margin: 10px;
+        min-width: 400px;
+        min-height: 280px;
+        margin: 3px;
     }
 
     /* Paragraphs in Card Content */
     .card .card-content p {
-     margin: 1px 10px; 
+     margin: 1px 0px; 
     
-    font-size: 0.9em;
+    font-size: 1.5em;
     color: #666;
     } 
 
