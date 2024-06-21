@@ -142,9 +142,10 @@ header h1 {
     /*max-width: auto;*/
     margin: 0 auto; 
     overflow: hidden;
-    background: rgb(10, 54, 135);
+    background: rgb(255, 255, 255);
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-color: rgb(117,170,219)
 }
 
 /* Carrusel */
@@ -163,7 +164,7 @@ header h1 {
 .card {
     min-width: 270px;
     margin: 8px;
-    background: white;
+    background: rgb(117,170,219);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     overflow: hidden;
@@ -179,8 +180,8 @@ header h1 {
 }
 
 .card img {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
 }
 
  .card-content {
@@ -356,14 +357,20 @@ footer {
         margin-bottom: 60px; /* Ensure space at the bottom for footer */
     }
 
+    .card img {
+        width: 50%;
+        height: 50%;
+    }
+
     .card {
         min-width: 380px;
-        margin: 5px;
+        margin: 10px;
     }
 
     /* Paragraphs in Card Content */
     .card .card-content p {
-    margin: 4px 1px;
+     margin: 2px 1px; 
+    
     font-size: 0.9em;
     color: #666;
     } 
