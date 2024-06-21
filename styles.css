@@ -369,7 +369,7 @@ footer {
 
     /* Paragraphs in Card Content */
     .card .card-content p {
-     margin: 0px 50px; 
+     margin: 1px 10px; 
     
     font-size: 0.9em;
     color: #666;
