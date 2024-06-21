@@ -3,8 +3,8 @@
         "Grupo A": {
             "teams": ["Argentina", "Canadá", "Perú", "Chile"],
             "matches": [
-                {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": null,
-      "score2": null},
+                {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": 2,
+      "score2": 0},
                 {"date": "2024-06-21", "dayOfWeek": "Viernes", "time": "21:00", "team1": "Perú", "team2": "Chile","imageUrl": "https://media.tycsports.com/files/2024/05/16/717894/chile-vs-peru_1440x810_wmk.webp?v=1","location": "AT&T Stadium de Arlington, Texas","score1": null,
       "score2": null},
                 {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "19:00", "team1": "Perú", "team2": "Canadá","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VDSnnPg92tOSjy-7AOTEnJ0gU17zS96xtw&s","location": "Childrens Mercy Park, Kansas City, Kansas","score1": null,

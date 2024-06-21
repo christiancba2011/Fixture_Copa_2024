@@ -142,7 +142,7 @@ header h1 {
     /*max-width: auto;*/
     margin: 0 auto; 
     overflow: hidden;
-    background: rgb(255, 255, 255);
+    background: rgb(117,170,219);
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-color: rgb(117,170,219)
@@ -164,7 +164,7 @@ header h1 {
 .card {
     min-width: 270px;
     margin: 8px;
-    background: rgb(117,170,219);
+    background: rgb(252, 252, 252);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     overflow: hidden;
