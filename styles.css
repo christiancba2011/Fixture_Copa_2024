@@ -163,9 +163,9 @@ header h1 {
 
 /* Tarjeta de partido */
 .card {
-    /*min-width: 270px;*/
-    max-width: 350px; /* Tamaño máximo en escritorio */
-    margin: 8px;
+    min-width: 290px;
+    max-width: 380px; /* Tamaño máximo en escritorio */
+    margin: 5px;
     background: rgb(252, 252, 252);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -174,7 +174,7 @@ header h1 {
     transform-style: preserve-3d;
     transform: rotateY(0deg);
     transition: transform 0.5s ease; /* Transición suave */
-    margin-bottom: 20px; /* Asegurar espacio inferior */
+    margin-bottom: 22px; /* Asegurar espacio inferior */
 }
 
 .card:hover {
