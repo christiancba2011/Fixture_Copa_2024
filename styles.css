@@ -163,7 +163,8 @@ header h1 {
 
 /* Tarjeta de partido */
 .card {
-    min-width: 270px;
+    /*min-width: 270px;*/
+    max-width: 350px; /* Tamaño máximo en escritorio */
     margin: 8px;
     background: rgb(252, 252, 252);
     border-radius: 10px;
