@@ -410,7 +410,7 @@ footer {
         flex-direction: column;
         width: 85%;
         position: absolute;
-        top: 90px;
+        top: 95px;
         left: 0;
         background-color: #302caf;
     }
@@ -420,7 +420,7 @@ footer {
     }
 
     .nav-links li {
-        margin: 8px 0;
+        margin: 10px 0;
     }
 
     .hamburger-menu {
