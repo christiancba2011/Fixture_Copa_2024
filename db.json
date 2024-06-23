@@ -5,8 +5,8 @@
             "matches": [
                 {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": 2,
       "score2": 0},
-                {"date": "2024-06-21", "dayOfWeek": "Viernes", "time": "21:00", "team1": "Perú", "team2": "Chile","imageUrl": "https://media.tycsports.com/files/2024/05/16/717894/chile-vs-peru_1440x810_wmk.webp?v=1","location": "AT&T Stadium de Arlington, Texas","score1": null,
-      "score2": null},
+                {"date": "2024-06-21", "dayOfWeek": "Viernes", "time": "21:00", "team1": "Perú", "team2": "Chile","imageUrl": "https://media.tycsports.com/files/2024/05/16/717894/chile-vs-peru_1440x810_wmk.webp?v=1","location": "AT&T Stadium de Arlington, Texas","score1": 0,
+      "score2": 0},
                 {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "19:00", "team1": "Perú", "team2": "Canadá","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VDSnnPg92tOSjy-7AOTEnJ0gU17zS96xtw&s","location": "Childrens Mercy Park, Kansas City, Kansas","score1": null,
                 "score2": null},
                 {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "22:00", "team1": "Chile", "team2": "Argentina","imageUrl": "https://a.espncdn.com/combiner/i?img=/photo/2022/0128/r966742_1296x729_16-9.jpg&cquality=80&h=370&w=655","location": "MetLife Stadium, East Rutherford, New Jersey","score1": null,
@@ -23,8 +23,8 @@
         "Grupo B": {
             "teams": ["México", "Jamaica", "Ecuador", "Venezuela"],
             "matches": [
-                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://media.primicias.ec/2020/11/12122705/Enner-Valencia-Ecuador-vs.-Venezuela.jpg","location": "Levi’s Stadium, Santa Clara, California","score1": null,
-                "score2": null},
+                {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ecuador", "team2": "Venezuela","imageUrl":"https://media.primicias.ec/2020/11/12122705/Enner-Valencia-Ecuador-vs.-Venezuela.jpg","location": "Levi’s Stadium, Santa Clara, California","score1": 1,
+                "score2": 2},
                 {"date": "2024-06-22", "dayOfWeek": "Sábado", "time": "22:00", "team1": "México", "team2": "Jamaica","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS61nYXirUvO0b8WGFbIIiTW4TEPWF5Bk4pw&s","location":"NRG Stadium, Houston, Texas","score1": null,
                 "score2": null},
                 {"date": "2024-06-26", "dayOfWeek": "Miércoles", "time": "19:00", "team1": "Ecuador", "team2": "Jamaica","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVyobA6KVVjs9eMSX7_injfdaMNkKz3WKQQ&s","location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
