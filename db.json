@@ -59,8 +59,8 @@
         "Grupo D": {
             "teams": ["Colombia", "Paraguay", "Brasil", "Costa Rica"],
             "matches": [
-                {"date": "2024-06-24", "dayOfWeek": "Lunes", "time": "19:00", "team1": "Colombia", "team2": "Paraguay","imageUrl":"https://media.tycsports.com/files/2021/11/16/359905/colombia-paraguay_1440x810_wmk.jpg?v=1","location":"NRG Stadium, Houston, Texas","score1": null,
-                "score2": null},
+                {"date": "2024-06-24", "dayOfWeek": "Lunes", "time": "19:00", "team1": "Colombia", "team2": "Paraguay","imageUrl":"https://media.tycsports.com/files/2021/11/16/359905/colombia-paraguay_1440x810_wmk.jpg?v=1","location":"NRG Stadium, Houston, Texas","score1": 2,
+                "score2": 0},
                 {"date": "2024-06-24", "dayOfWeek": "Lunes", "time": "20:00", "team1": "Brasil", "team2": "Costa Rica","imageUrl":"https://depor.com/resizer/2XnDKsDuOaN-RFpHpWTY6AaBvQo=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/2RCWK4FY3JDYBOV36SM5DJ2ZDY.jpg","location":"SoFi Stadium, Inglewood, California","score1": null,
                 "score2": null},
                 {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "19:00", "team1": "Colombia", "team2": "Costa Rica","imageUrl":"https://media.tycsports.com/files/2021/07/03/302679/uruguay-2-0-0-4-colombia-copa-america-2022_862x485.jpg?v=1","location":"State Farm Stadium, Glendale, Arizona","score1": null,
