@@ -11,10 +11,10 @@
                 "score2": 1},
                 {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "22:00", "team1": "Chile", "team2": "Argentina","imageUrl": "https://a.espncdn.com/combiner/i?img=/photo/2022/0128/r966742_1296x729_16-9.jpg&cquality=80&h=370&w=655","location": "MetLife Stadium, East Rutherford, New Jersey","score1": 0,
                 "score2": 1},
-                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Argentina", "team2": "Perú","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSGy_QZLLZTvW83LiRHAUVqTyyakwHFWG0w&s","location": "Hard Rock Stadium, Miami Gardens, Florida","score1": null,
-                "score2": null},
-                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Canadá", "team2": "Chile","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTictwdZZ4yyWO2mDfayrZUBVeNK9t-0_9WzQ&s","location": "Exploria Stadium, Orlando, Florida","score1": null,
-                "score2": null}
+                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Argentina", "team2": "Perú","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSGy_QZLLZTvW83LiRHAUVqTyyakwHFWG0w&s","location": "Hard Rock Stadium, Miami Gardens, Florida","score1": 2,
+                "score2": 0},
+                {"date": "2024-06-29", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Canadá", "team2": "Chile","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTictwdZZ4yyWO2mDfayrZUBVeNK9t-0_9WzQ&s","location": "Exploria Stadium, Orlando, Florida","score1": 0,
+                "score2": 0}
                 
                 
             ]
@@ -65,8 +65,8 @@
                 "score2": 0},
                 {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "19:00", "team1": "Colombia", "team2": "Costa Rica","imageUrl":"https://media.tycsports.com/files/2021/07/03/302679/uruguay-2-0-0-4-colombia-copa-america-2022_862x485.jpg?v=1","location":"State Farm Stadium, Glendale, Arizona","score1": 3,
                 "score2": 0},
-                {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Paraguay", "team2": "Brasil","imageUrl":"https://i.ytimg.com/vi/ehiFQEXl4nc/maxresdefault.jpg","location":"Allegiant Stadium, Las Vegas, Nevada","score1": 0,
-                "score2": 0},
+                {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Paraguay", "team2": "Brasil","imageUrl":"https://i.ytimg.com/vi/ehiFQEXl4nc/maxresdefault.jpg","location":"Allegiant Stadium, Las Vegas, Nevada","score1": 1,
+                "score2": 4},
                 {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Brasil", "team2": "Colombia","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3gZ8mv3jDNfZXU1WgUIwwglnLvXt2dt26Q&s","location":"Levi’s Stadium, Santa Clara, California","score1": null,
                 "score2": null},
                 {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Costa Rica", "team2": "Paraguay","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHr7W3UFWvG2g8oDpjc44I-oEwxP4_XXsbA&s","location":"Q2 Stadium, Austin, Texas","score1": null,
