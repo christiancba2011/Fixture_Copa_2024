@@ -50,10 +50,10 @@
                 "score2": 1},
                 {"date": "2024-06-27", "dayOfWeek": "Jueves", "time": "22:00", "team1": "Uruguay", "team2": "Bolivia","imageUrl":"https://www.infobae.com/new-resizer/mV7BhJs9MzxeS0gAOZ-SGU8Wsvs=/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/7DRF6QIA4FG5JACVA66LXA2HEY.jpg","location":"MetLife Stadium, New Jersey","score1":5,
                 "score2": 0},
-                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Bolivia", "team2": "Panamá","imageUrl":"https://depor.com/resizer/9k5nNWsQ9zFmPTkkD0p7P7YRPk8=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DHF2EX3S3NEEROMOI7AN5L7GLY.jpg","location":"Exploria Stadium, Orlando, Florida","score1": null,
-                "score2": null},
-                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Estados Unidos", "team2": "Uruguay","imageUrl":"https://media.tycsports.com/files/2024/05/20/720055/estados-unidos-vs-uruguay_1440x810_wmk.webp","location":"GEHA Field at Arrowhead Stadium, Kansas City, Missouri","score1": null,
-                "score2": null}
+                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Bolivia", "team2": "Panamá","imageUrl":"https://depor.com/resizer/9k5nNWsQ9zFmPTkkD0p7P7YRPk8=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DHF2EX3S3NEEROMOI7AN5L7GLY.jpg","location":"Exploria Stadium, Orlando, Florida","score1": 1,
+                "score2": 3},
+                {"date": "2024-07-01", "dayOfWeek": "Lunes", "time": "22:00", "team1": "Estados Unidos", "team2": "Uruguay","imageUrl":"https://media.tycsports.com/files/2024/05/20/720055/estados-unidos-vs-uruguay_1440x810_wmk.webp","location":"GEHA Field at Arrowhead Stadium, Kansas City, Missouri","score1": 0,
+                "score2": 1}
             ]
         },
         "Grupo D": {
@@ -79,9 +79,9 @@
             "score2": null},
             {"date": "2024-07-05", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Venezuela", "team2": "Canadá", "imageUrl": "https://example.com/quarter2.jpg", "location": "AT&T Stadium de Arlington, Texas","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Ganador Grupo C", "team2": "Segundo Grupo D", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Uruguay", "team2": "Segundo Grupo D", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Ganador Grupo D", "team2": "Segundo Grupo C", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Ganador Grupo D", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
             "score2": null}
         ],
         "semifinals": [
