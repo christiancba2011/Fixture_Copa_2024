@@ -67,10 +67,10 @@
                 "score2": 0},
                 {"date": "2024-06-28", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Paraguay", "team2": "Brasil","imageUrl":"https://i.ytimg.com/vi/ehiFQEXl4nc/maxresdefault.jpg","location":"Allegiant Stadium, Las Vegas, Nevada","score1": 1,
                 "score2": 4},
-                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Brasil", "team2": "Colombia","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3gZ8mv3jDNfZXU1WgUIwwglnLvXt2dt26Q&s","location":"Levi’s Stadium, Santa Clara, California","score1": null,
-                "score2": null},
-                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Costa Rica", "team2": "Paraguay","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHr7W3UFWvG2g8oDpjc44I-oEwxP4_XXsbA&s","location":"Q2 Stadium, Austin, Texas","score1": null,
-                "score2": null}
+                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Brasil", "team2": "Colombia","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3gZ8mv3jDNfZXU1WgUIwwglnLvXt2dt26Q&s","location":"Levi’s Stadium, Santa Clara, California","score1": 1,
+                "score2": 1},
+                {"date": "2024-07-02", "dayOfWeek": "Martes", "time": "22:00", "team1": "Costa Rica", "team2": "Paraguay","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHr7W3UFWvG2g8oDpjc44I-oEwxP4_XXsbA&s","location":"Q2 Stadium, Austin, Texas","score1": 2,
+                "score2": 1}
                
             ]
         },
@@ -79,9 +79,9 @@
             "score2": null},
             {"date": "2024-07-05", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Venezuela", "team2": "Canadá", "imageUrl": "https://example.com/quarter2.jpg", "location": "AT&T Stadium de Arlington, Texas","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Uruguay", "team2": "Segundo Grupo D", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Uruguay", "team2": "Brasil", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Ganador Grupo D", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Colombia", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
             "score2": null}
         ],
         "semifinals": [
