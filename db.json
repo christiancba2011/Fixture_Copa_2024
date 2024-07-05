@@ -79,13 +79,13 @@
             "score2": 1, "Penales": 4  },
             {"date": "2024-07-05", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Venezuela", "team2": "Canadá", "imageUrl": "https://example.com/quarter2.jpg", "location": "AT&T Stadium de Arlington, Texas","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Uruguay", "team2": "Brasil", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Uruguay", "team2": "Brasil", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
             "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Colombia", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Colombia", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
             "score2": null}
         ],
         "semifinals": [
-            {"date": "2024-07-09", "dayOfWeek": "Martes", "time": "20:00", "team1": "Ganador Cuarto 1", "team2": "Ganador Cuarto 2","location": "MetLife Stadium, New Jersey","score1": null,
+            {"date": "2024-07-09", "dayOfWeek": "Martes", "time": "20:00", "team1": "Argentina", "team2": "Ganador Cuarto 2","location": "MetLife Stadium, New Jersey","score1": null,
             "score2": null},
             {"date": "2024-07-10", "dayOfWeek": "Miércoles", "time": "20:00", "team1": "Ganador Cuarto 3", "team2": "Ganador Cuarto 4", "imageUrl": "https://example.com/semi2.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
             "score2": null}
