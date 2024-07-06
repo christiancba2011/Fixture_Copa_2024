@@ -21,10 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentX = 0;
     let isDragging = false;
 
-    let penaltiesInfo = '';
-    if (match.penalties) {
-        penaltiesInfo = `<p><strong>Penales:</strong> ${match.penalties}</p>`;
-    }
+    
 
 
     // Fetch JSON data
@@ -54,8 +51,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Check if the groupName is knockout stage
         const isKnockoutStage = ["quarterfinals", "semifinals", "thirdPlace", "final"].includes(groupName);
-
-        card.innerHTML = `
+        
+         let penaltiesInfo = '';
+            if (match.penalties) {
+                penaltiesInfo = `<p><strong>Penales:</strong> ${match.penalties}</p>`;
+            }
+            card.innerHTML = `
             <h3>${match.team1} vs ${match.team2}</h3>
             ${!isKnockoutStage ? `<img src="${match.imageUrl}" alt="Partido ${match.team1} vs ${match.team2}">` : ''}
             <div class="card-content">
