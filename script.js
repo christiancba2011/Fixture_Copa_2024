@@ -21,6 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
     let currentX = 0;
     let isDragging = false;
 
+    let penaltiesInfo = '';
+    if (match.penalties) {
+        penaltiesInfo = `<p><strong>Penales:</strong> ${match.penalties}</p>`;
+    }
+
+
     // Fetch JSON data
     fetch('https://project-data-games.onrender.com/groups')
         .then(response => response.json())
@@ -56,7 +62,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>${match.dayOfWeek}, ${match.date} - ${match.time}</p>
                 <p>${match.location}</p>
                 <p><strong>Resultado:</strong> ${match.score1 !== null ? match.score1 : '-'} - ${match.score2 !== null ? match.score2 : '-'}</p>
-            </div>
+                ${penaltiesInfo} <!-- Solo se mostrará si hay información de penales -->
+                </div>
         `;
         return card;
     }
