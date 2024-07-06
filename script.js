@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>${match.location}</p>
                 <p><strong>Resultado:</strong> ${match.score1 !== null ? match.score1 : '-'} - ${match.score2 !== null ? match.score2 : '-'}</p>
                 ${penaltiesInfo} <!-- Solo se mostrará si hay información de penales -->
-                </div>
+            </div>
         `;
         return card;
     }
