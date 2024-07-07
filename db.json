@@ -76,18 +76,18 @@
         },
         "quarterfinals": [
             {"date": "2024-07-04", "dayOfWeek": "Jueves", "time": "22:00", "team1": "Argentina", "team2": "Ecuador","location": "NRG Stadium, Houston","score1":1, 
-            "score2": 1, "penalties": "Argentina 4 - 2 Ecuador" },
+            "score2": 1, "penalties": "ARG 4 - 2 ECU" },
             {"date": "2024-07-05", "dayOfWeek": "Viernes", "time": "22:00", "team1": "Venezuela", "team2": "Canadá", "imageUrl": "https://example.com/quarter2.jpg", "location": "AT&T Stadium de Arlington, Texas","score1": 1,
-            "score2": 1, "penalties": "Venezuela 3 - 4 Canadá"},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Uruguay", "team2": "Brasil", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": null,
-            "score2": null},
-            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Colombia", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": null,
-            "score2": null}
+            "score2": 1, "penalties": "VEN 3 - 4 CAN"},
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "22:00", "team1": "Uruguay", "team2": "Brasil", "imageUrl": "https://example.com/quarter3.jpg", "location": "Allegiant Stadium, Las Vegas, Nevada","score1": 0,
+            "score2": 0,"penalties": "URU 4 - 2 BRA"},
+            {"date": "2024-07-06", "dayOfWeek": "Sábado", "time": "19:00", "team1": "Colombia", "team2": "Panamá", "imageUrl": "https://example.com/quarter4.jpg", "location": "State Farm Stadium, Glendale","score1": 5,
+            "score2": 0}
         ],
         "semifinals": [
             {"date": "2024-07-09", "dayOfWeek": "Martes", "time": "20:00", "team1": "Argentina", "team2": "Canadá","location": "MetLife Stadium, New Jersey","score1": null,
             "score2": null},
-            {"date": "2024-07-10", "dayOfWeek": "Miércoles", "time": "20:00", "team1": "Ganador Cuarto 3", "team2": "Ganador Cuarto 4", "imageUrl": "https://example.com/semi2.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
+            {"date": "2024-07-10", "dayOfWeek": "Miércoles", "time": "20:00", "team1": "Uruguay", "team2": "Colombia", "imageUrl": "https://example.com/semi2.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
             "score2": null}
         ],
         "thirdPlace": [
