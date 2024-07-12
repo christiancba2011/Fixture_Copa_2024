@@ -91,11 +91,11 @@
             "score2": 1}
         ],
         "thirdPlace": [
-            {"date": "2024-07-13", "dayOfWeek": "Sábado", "time": "20:00", "team1": "Canadá", "team2": "Uruguay", "imageUrl": "https://example.com/third.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
+            {"date": "2024-07-13", "dayOfWeek": "Sábado", "time": "21:00", "team1": "Canadá", "team2": "Uruguay", "imageUrl": "https://example.com/third.jpg", "location": "Bank of America Stadium (Charlotte, North Carolina)","score1": null,
             "score2": null}
         ],
         "final": [
-            {"date": "2024-07-14", "dayOfWeek": "Domingo", "time": "20:00", "team1": "Argentina", "team2": "Colombia", "imageUrl": "https://example.com/final.jpg", "location": "Hard Rock Stadium, Miami Gardens","score1": null,
+            {"date": "2024-07-14", "dayOfWeek": "Domingo", "time": "21:00", "team1": "Argentina", "team2": "Colombia", "imageUrl": "https://example.com/final.jpg", "location": "Hard Rock Stadium, Miami Gardens","score1": null,
             "score2": null}
         ]
     }
