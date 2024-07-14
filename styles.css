@@ -313,6 +313,52 @@ footer {
     margin: 3px 0;
 }
 
+/*******Animación*******************************/
+/* #champion-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    z-index: 1000;
+} */
+
+/* #champion-container.visible {
+    opacity: 1;
+} */
+
+/* .champion-banner {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    transform: scale(0);
+    animation: scaleUp 1s forwards;
+}
+
+@keyframes scaleUp {
+    to {
+        transform: scale(1);
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+#champion-image {
+    max-width: 100px;
+    margin-top: 20px;
+} */
+
+/********Fin Animación********************/
+
 /* Estilos para escritorio */
 @media (min-width: 1024px) {
     button.group-btn,
