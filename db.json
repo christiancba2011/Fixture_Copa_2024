@@ -95,8 +95,8 @@
             "score2": 2,"penalties": "CAN 3 - 4 URU"}
         ],
         "final": [
-            {"date": "2024-07-14", "dayOfWeek": "Domingo", "time": "21:00", "team1": "Argentina", "team2": "Colombia", "imageUrl": "https://example.com/final.jpg", "location": "Hard Rock Stadium, Miami Gardens","score1": null,
-            "score2": null}
+            {"date": "2024-07-14", "dayOfWeek": "Domingo", "time": "21:00", "team1": "Argentina", "team2": "Colombia", "imageUrl": "https://example.com/final.jpg", "location": "Hard Rock Stadium, Miami Gardens","score1": 1,
+            "score2": 0}
         ]
     }
 

@@ -56,6 +56,19 @@ document.addEventListener('DOMContentLoaded', function() {
             if (match.penalties) {
                 penaltiesInfo = `<p><strong>Penales:</strong> ${match.penalties}</p>`;
             }
+
+            // Verifica si es la final y si hay un resultado definido
+            let championImage = '';
+                if (groupName === "final" && match.score1 !== null && match.score2 !== null) {
+                    // Determina el equipo ganador
+                    const winner = match.score1 > match.score2 ? match.team1 : match.team2;
+                    // URL de la imagen del campeón (esto debería ser dinámico según tu lógica)
+                    const championImageUrl = './img/Argentina_Campeon_CA_2024.png';
+                    championImage = `<div class="champion">
+                                        <p><strong>Campeón:</strong> ${winner}</p>
+                                        <img src="${championImageUrl}" alt="Campeón ${winner}">
+                                    </div>`;
+                }
             card.innerHTML = `
             <h3>${match.team1} vs ${match.team2}</h3>
             ${!isKnockoutStage ? `<img src="${match.imageUrl}" alt="Partido ${match.team1} vs ${match.team2}">` : ''}
@@ -64,6 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>${match.location}</p>
                 <p><strong>Resultado:</strong> ${match.score1 !== null ? match.score1 : '-'} - ${match.score2 !== null ? match.score2 : '-'}</p>
                 ${penaltiesInfo} <!-- Solo se mostrará si hay información de penales -->
+                ${championImage} <!-- Imagen del campeón si es la final -->
             </div>
         `;
         return card;
